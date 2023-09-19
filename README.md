@@ -20,7 +20,7 @@ __<p align="center">Hi there~Thank you for coming!👋</p>__
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning.
-- 🌱 I’m currently learning Deep Learning.
+
 
 I would like to hear feedback from you 😄
 
