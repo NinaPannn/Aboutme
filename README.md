@@ -1,6 +1,6 @@
 __<p align="center">Hi there~Thank you for coming!👋</p>__
 
-🔆 I am Kunhui Pan, a postgraduate student at the University of Southampton specialising in Data and Decision Analytics. I am a self-driven coder and have greate passion for data science. I particularly encourage more girls to get involved in the field of data science to discover the beauty in this field.🔆
+🔆 I am Nina Pan, a postgraduate student at the University of Southampton specialising in Data and Decision Analytics. I am a self-driven coder and have greate passion for data science. I particularly encourage more girls to get involved in the field of data science to discover the beauty in this field.🔆
 
 
 
